@@ -1,0 +1,16 @@
+{
+  "name": "awesome-car",
+  "version": "0.0.1",
+  "description": "Carousel for web projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "carousel",
+    "carousel js",
+    "awesome carousel"
+  ],
+  "author": "Vladislav <programmer28.vdovin@yandex.ru>",
+  "license": "MIT"
+}
